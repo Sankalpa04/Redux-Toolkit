@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    background: #679479;
+    padding: 15px 50px;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.navbar-left p{
+    font-family:    sans-serif;
+    font-weight: 700;
+    color: white;
+    padding-left: 50px;
+    text-decoration: none;
+}
