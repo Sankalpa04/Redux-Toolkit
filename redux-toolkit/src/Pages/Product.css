@@ -1,0 +1,12 @@
+.products{
+    /* display: flex; */
+    margin: 20px 100px;
+}
+
+
+.product-items{
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+}

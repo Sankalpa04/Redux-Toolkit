@@ -9,6 +9,7 @@ const Item = (props) => {
         </div>
         <img src={props.image} alt="" />
         <p>{props.price}</p>
+        <button>Add to C  art</button>
     </div>
   )
 }
